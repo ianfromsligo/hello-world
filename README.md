@@ -1,2 +1,2 @@
 # hello-world
-test
+C program to print out hello world
